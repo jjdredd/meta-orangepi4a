@@ -1,0 +1,33 @@
+This README file contains information on the contents of the meta-orangepi4a layer.
+
+Please see the corresponding sections below for details.
+
+Dependencies
+============
+
+  URI: <first dependency>
+  branch: <branch name>
+
+  URI: <second dependency>
+  branch: <branch name>
+
+  .
+  .
+  .
+
+Table of Contents
+=================
+
+  I. Adding the meta-orangepi4a layer to your build
+ II. Misc
+
+
+I. Adding the meta-orangepi4a layer to your build
+=================================================
+
+Run 'bitbake-layers add-layer meta-orangepi4a'
+
+II. Misc
+========
+
+This layer is created from the official ubuntu jammy orangepi image
