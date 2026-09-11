@@ -1,4 +1,5 @@
 inherit allarch
+LICENSE = "commercial"
 
 SRC_URI += "file://firmware"
 
